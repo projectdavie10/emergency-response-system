@@ -1,0 +1,9 @@
+{
+  "name": "dispatch-web",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "dispatch-web/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project dispatch-web --web",
+  "targets": {}
+}

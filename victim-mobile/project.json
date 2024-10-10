@@ -1,0 +1,9 @@
+{
+  "name": "victim-mobile",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "victim-mobile/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project victim-mobile --web",
+  "targets": {}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "responder-mobile",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "responder-mobile/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project responder-mobile --web",
+  "targets": {}
+}
